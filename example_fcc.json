@@ -1,0 +1,11 @@
+{
+  "a": 4.05,
+  "wavelength": 1.5406,
+  "Q": 30,
+  "atoms": [
+    {"x": 0.0, "y": 0.0, "z": 0.0, "amplitude": 13.0, "occupancy": 1.0},
+    {"x": 0.5, "y": 0.5, "z": 0.0, "amplitude": 13.0, "occupancy": 1.0},
+    {"x": 0.5, "y": 0.0, "z": 0.5, "amplitude": 13.0, "occupancy": 1.0},
+    {"x": 0.0, "y": 0.5, "z": 0.5, "amplitude": 13.0, "occupancy": 1.0}
+  ]
+}

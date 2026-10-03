@@ -1,0 +1,94 @@
+{
+  "peaks": [
+    {
+      "q": 3,
+      "d": 2.3382685902179845,
+      "two_theta_deg": 38.468581818502685,
+      "intensity": 21632.0,
+      "relative_intensity": 25.0,
+      "reflection_count": 8,
+      "extinct_count": 0
+    },
+    {
+      "q": 4,
+      "d": 2.025,
+      "two_theta_deg": 44.71631166640311,
+      "intensity": 16224.0,
+      "relative_intensity": 18.75,
+      "reflection_count": 6,
+      "extinct_count": 0
+    },
+    {
+      "q": 8,
+      "d": 1.4318912319027586,
+      "two_theta_deg": 65.0897301226583,
+      "intensity": 32448.0,
+      "relative_intensity": 37.5,
+      "reflection_count": 12,
+      "extinct_count": 0
+    },
+    {
+      "q": 11,
+      "d": 1.2211209455399425,
+      "two_theta_deg": 78.22038433526524,
+      "intensity": 64896.0,
+      "relative_intensity": 75.0,
+      "reflection_count": 24,
+      "extinct_count": 0
+    },
+    {
+      "q": 12,
+      "d": 1.1691342951089922,
+      "two_theta_deg": 82.42651992481622,
+      "intensity": 21632.0,
+      "relative_intensity": 25.0,
+      "reflection_count": 8,
+      "extinct_count": 0
+    },
+    {
+      "q": 16,
+      "d": 1.0125,
+      "two_theta_deg": 99.06780604693904,
+      "intensity": 16224.0,
+      "relative_intensity": 18.75,
+      "reflection_count": 6,
+      "extinct_count": 0
+    },
+    {
+      "q": 19,
+      "d": 0.9291337221757751,
+      "two_theta_deg": 112.00291893772552,
+      "intensity": 64896.0,
+      "relative_intensity": 75.0,
+      "reflection_count": 24,
+      "extinct_count": 0
+    },
+    {
+      "q": 20,
+      "d": 0.9056075308874147,
+      "two_theta_deg": 116.55162747651003,
+      "intensity": 64896.0,
+      "relative_intensity": 75.0,
+      "reflection_count": 24,
+      "extinct_count": 0
+    },
+    {
+      "q": 24,
+      "d": 0.8267027881893226,
+      "two_theta_deg": 137.42605656870492,
+      "intensity": 64896.0,
+      "relative_intensity": 75.0,
+      "reflection_count": 24,
+      "extinct_count": 0
+    },
+    {
+      "q": 27,
+      "d": 0.7794228634059948,
+      "two_theta_deg": 162.45024093854335,
+      "intensity": 86528.0,
+      "relative_intensity": 100.0,
+      "reflection_count": 32,
+      "extinct_count": 0
+    }
+  ]
+}
